@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMFDB", "MMFDB\MMFDB.csproj", "{BDDB60E5-E810-4DED-9759-DA7247A080AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDDB60E5-E810-4DED-9759-DA7247A080AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDB60E5-E810-4DED-9759-DA7247A080AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDB60E5-E810-4DED-9759-DA7247A080AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDB60E5-E810-4DED-9759-DA7247A080AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE3C299-5DE7-4BFA-95B2-318EAF56E1A8}
+	EndGlobalSection
+EndGlobal
